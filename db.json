@@ -1,15 +1,9 @@
 {
   "tasks": [
     {
-      "text": "Coffee Break",
-      "day": "2022-11-02T00:22",
-      "reminder": true,
-      "id": 1
-    },
-    {
       "text": "Doctor's Appointment",
       "day": "2022-11-02T00:24",
-      "reminder": false,
+      "reminder": true,
       "id": 2
     }
   ]
